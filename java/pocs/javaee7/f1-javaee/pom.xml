@@ -35,7 +35,7 @@
 
 		<!-- jboss javae -->
 		<jboss.bom.version>1.0.3.Final</jboss.bom.version>
-		<resteasy-bom.version>2.3.4.Final</resteasy-bom.version>
+		<resteasy-bom.version>4.6.1.Final</resteasy-bom.version>
 
 		<!-- maven plugin -->
 		<maven-war-plugin.version>2.1.1</maven-war-plugin.version>
